@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LYCORIS | Cyber Streetwear</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo">LYCORIS</div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Shop</a>
+      <a href="#">Cart</a>
+    </nav>
+  </header>
+
+  <main class="hero">
+    <h1>FUTURE // OCCULT // STREET</h1>
+    <p>Cyber Sigil Streetwear</p>
+    <a class="cta-button" href="#">Shop Now</a>
+  </main>
+
+  <footer>
+    &copy; 2025 LYCORIS. All rights reserved.
+  </footer>
+
+</body>
+</html>
